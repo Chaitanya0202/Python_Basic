@@ -1,0 +1,6 @@
+x=int(input('enter the x value'))
+y=int(input('Enter the y value'))
+print('The addition is',x+y)
+print('The substrsction is',x-y)
+print("Addition and extra value",x+6+y)
+print('substraction and extra value',x-5-y)
